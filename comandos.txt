@@ -1,0 +1,3 @@
+git merge <nombre de rama que queremos copiar> //se debe estar en la rama donde queremos que se copie
+git checkout <nombre de rama>     // para moverse de rama
+git branch                        // indica la rama actual
