@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=gnome-terminal -x bash "/home/add/Escritorio/scripts/init-Webcam.sh"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[es]=test
+Name=test
+Comment[es]=
+Comment=
